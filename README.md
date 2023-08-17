@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jitendra Muradnar ,I'm a from India 🇮🇳</p>
+<p align="left">My name is Jitendra Muradnar ,I'm from Pune, India 🇮🇳</p>
 
 ###
 
